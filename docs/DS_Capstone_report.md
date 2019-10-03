@@ -44,7 +44,7 @@ For our initial visual inspection we see that they all have multiple pizza place
 
 #### Boston: 
 
-![1570115810909](570115810909.png)
+![1570115810909](1570115810909.png)
 
 Upon First inspection we see that New York, Jersey City and San Francisco are the most densely cities. In the next phase we Calculate the Mean coordinate and the mean distance to mean coordinate(MDMC). We represent the mean coordinate with a big green circle and distances with green lines
 
