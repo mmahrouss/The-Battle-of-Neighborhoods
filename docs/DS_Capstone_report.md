@@ -28,23 +28,23 @@ For our initial visual inspection we see that they all have multiple pizza place
 
 #### New York:
 
-![New York Geoplot](/home/mmahrous/.config/Typora/typora-user-images/1570114968097.png)
+![New York Geoplot](1570114968097.png)
 
 #### Chicago:
 
-![Chicago Geo plot](/home/mmahrous/.config/Typora/typora-user-images/1570115035264.png)
+![Chicago Geo plot](1570115035264.png)
 
 #### San Francisco: 
 
-![SF](/home/mmahrous/.config/Typora/typora-user-images/1570115744107.png)
+![SF](1570115744107.png)
 
 #### Jersey City:
 
-![Jc](/home/mmahrous/.config/Typora/typora-user-images/1570115780585.png)
+![Jc](1570115780585.png)
 
 #### Boston: 
 
-![1570115810909](/home/mmahrous/.config/Typora/typora-user-images/1570115810909.png)
+![1570115810909](570115810909.png)
 
 Upon First inspection we see that New York, Jersey City and San Francisco are the most densely cities. In the next phase we Calculate the Mean coordinate and the mean distance to mean coordinate(MDMC). We represent the mean coordinate with a big green circle and distances with green lines
 
@@ -52,31 +52,31 @@ Upon First inspection we see that New York, Jersey City and San Francisco are th
 
 MDMC: 0.021556
 
-![1570116007629](/home/mmahrous/.config/Typora/typora-user-images/1570116007629.png)
+![1570116007629](1570116007629.png)
 
 #### Chicago: 
 
 MDMC: 0.052805
 
-![1570116072129](/home/mmahrous/.config/Typora/typora-user-images/1570116072129.png)
+![1570116072129](1570116072129.png)
 
 #### San Francisco: 
 
 MDMC: 0.028633
 
-![1570116146328](/home/mmahrous/.config/Typora/typora-user-images/1570116146328.png)
+![1570116146328](1570116146328.png)
 
 #### Jersey City:
 
 MDMC: 0.029950
 
-![1570116170991](/home/mmahrous/.config/Typora/typora-user-images/1570116170991.png)
+![1570116170991](1570116170991.png)
 
 ####  Boston: 
 
 MDMC: 0.035126
 
-![1570116196100](/home/mmahrous/.config/Typora/typora-user-images/1570116196100.png)
+![1570116196100](1570116196100.png)
 
 Therefore our results are : 
 
